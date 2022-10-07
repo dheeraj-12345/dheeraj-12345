@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data structure and algorithms.
 - 📫 How to reach me - dheeraj0169@gmail.com
 -  Pronouns -He/him.
--  
+-  Fun fact - i love to play video games , if ur a gamer join me 😄
 
 <!---
 dheeraj-12345/dheeraj-12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
